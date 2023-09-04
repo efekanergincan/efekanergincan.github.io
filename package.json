@@ -1,0 +1,20 @@
+{
+  "name": "efedemoihbar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "EfedemoihbarApplicationTests.java"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efekanergincan/ihbarsuresihesaplama.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/efekanergincan/ihbarsuresihesaplama/issues"
+  },
+  "homepage": "https://github.com/efekanergincan/ihbarsuresihesaplama#readme",
+  "description": ""
+}
